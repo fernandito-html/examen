@@ -1,4 +1,6 @@
-    body {
+    
+<style>
+        body {
             background-color: lightblue;
             font-family: Arial, sans-serif;
         
@@ -8,7 +10,7 @@
         }
         p {
             font-size: 16px;
-            line-height: 1.5
+            line-height: 1.5;
         }
         .container {
             width: 80%;
@@ -35,8 +37,9 @@
             list-style-type: none;
         }
         .highlight {
-            color: blue
+            color: blue;
         }
-    style
+    </style>
+
 
 
